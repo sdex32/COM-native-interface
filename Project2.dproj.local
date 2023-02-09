@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.081,E:\copy_old_disk_d\zwork\win32\projects\com_object\Unit1.dfm=C:\Users\bstoianov\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,=C:\Users\bstoianov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=E:\copy_old_disk_d\zwork\win32\blib\BStrTools.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,E:\copy_old_disk_d\zwork\win32\projects\com_object\Unit1.pas=C:\Users\bstoianov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,E:\copy_old_disk_d\zwork\win32\projects\com_object\Project2.dproj=C:\Users\bstoianov\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,=E:\copy_old_disk_d\zwork\win32\blib\BFileTools.pas</Transaction>
+  </Transactions>
+</BorlandProject>
